@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://marinagardenslaneadmin.showflat.com.sg/sitemap.xml
